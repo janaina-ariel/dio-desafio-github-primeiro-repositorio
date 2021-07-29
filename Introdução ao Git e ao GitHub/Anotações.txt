@@ -1,1 +1,6 @@
 Sintaxe Básica Markdown: https://www.markdownguide.org/basic-syntax/
+
+Git status - mostra o status dos arquivos, se há alguma alteração não comitada
+Git add . - adiciona arquivos
+Git Commit -m guarda as alterações e escreve uma mensagem
+Git push origin main - envia as alterações para o servidor do github
